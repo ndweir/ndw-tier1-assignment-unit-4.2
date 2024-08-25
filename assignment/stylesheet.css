@@ -1,3 +1,14 @@
 header {
     background-color: azure;
 }
+
+
+h2 {
+   background-color: rgba(11, 121, 231, 0);
+   color: burlywood;
+}
+
+h3 {
+    background-color: rgba(255, 0, 98, 0);
+    color: aquamarine;
+}
